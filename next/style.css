@@ -1,0 +1,23 @@
+@font-face {
+    font-family: syg;
+    src: url(WitcherHandwritingRegular-GO5vO.ttf);
+}
+body {
+    background-color: #3e0000; /
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center; 
+    align-items: center; /* Mengatur teks ke tengah secara vertikal */
+    min-height: 100vh; /* Mengisi seluruh tinggi viewport */
+}
+
+
+h1 {
+    color: white; /* Warna teks putih */
+    text-align: center; /* Mengatur teks ke tengah secara horizontal */
+    font-family: 'syg';
+}
+
+
+
